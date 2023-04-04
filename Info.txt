@@ -1,4 +1,4 @@
-Confugure DC motor speed & frequency using keypad & LCD Interface
+Configure DC motor speed & frequency using keypad & LCD Interface
 
 runnig video  :
 https://drive.google.com/drive/folders/18jWiG_pA6_EMpeG1knAXJ_oLur5YILPG
